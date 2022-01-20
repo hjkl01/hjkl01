@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Note :      https://lesssound.github.io/
+Mirror:        http://blog.viewer.pub/
 Online Sheet : https://lesssound.github.io/x-spreadsheet/
 
 <!--
