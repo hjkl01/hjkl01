@@ -4,6 +4,9 @@
 - Mirror:        http://blog.viewer.pub/
 - Online Sheet : https://lesssound.github.io/x-spreadsheet/
 
+- [![trophy](https://github-profile-trophy.vercel.app/?lesssound=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **lesssound/lesssound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
