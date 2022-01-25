@@ -5,7 +5,7 @@
 - Online Sheet : https://lesssound.github.io/x-spreadsheet/
 
 - [![trophy](https://github-profile-trophy.vercel.app/?username=lesssound&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=lesssound&repo=Arc&show_owner=true)](https://github.com/YituHealthcare/Arc)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesssound)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
