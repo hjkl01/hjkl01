@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My Note :      https://lesssound.github.io/
-- Mirror:        http://blog.viewer.pub/
+  - Mirror:        http://blog.viewer.pub/
 - Online Sheet : https://lesssound.github.io/x-spreadsheet/
 
 - [![trophy](https://github-profile-trophy.vercel.app/?username=lesssound&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
