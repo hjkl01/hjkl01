@@ -6,6 +6,7 @@
 
 - [![trophy](https://github-profile-trophy.vercel.app/?username=lesssound&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesssound&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesssound)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
