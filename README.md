@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- My Note :      https://hjkl01.github.io/
-  - Mirror:        http://blog.viewer.pub/
+- My Note :      https://blog.hjkl01.cn/
 - Tools: https://hjkl01.github.io/CyberChef
 - Online Sheet : https://hjkl01.github.io/x-spreadsheet/
 - ![stars](https://starchart.cc/hjkl01/pornhub.svg)
