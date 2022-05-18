@@ -5,14 +5,15 @@
   - https://blog.hjkl01.cn/
 
 - Tools: 
-  -  json view
-    - https://jsonhero.io/j/vxIiNWyby2Ua
-    - https://jsonvisio.com/editor
-  - curl to code
-    - https://curlconverter.com/
-    - https://gchq.github.io/CyberChef/
-  - Online Sheet
-    - https://hjkl01.github.io/x-spreadsheet/
+  - https://gchq.github.io/CyberChef/
+-  json view
+  - https://jsonhero.io/j/vxIiNWyby2Ua
+  - https://jsonvisio.com/editor
+- curl to code
+  - https://curlconverter.com/
+
+- Online Sheet
+  - https://hjkl01.github.io/x-spreadsheet/
 
 - ![stars](https://starchart.cc/hjkl01/pornhub.svg)
 
