@@ -2,20 +2,20 @@
 
 - My Note :      
   - https://hjkl01.github.io/
-  - https://blog.hjkl01.cn/
+  - mirror: https://blog.hjkl01.cn/
 
 - Tools: 
-  - https://gchq.github.io/CyberChef/
+> https://gchq.github.io/CyberChef/
 
 -  json view
-  - https://jsonhero.io/j/vxIiNWyby2Ua
-  - https://jsonvisio.com/editor
+> https://jsonhero.io/j/vxIiNWyby2Ua
+> https://jsonvisio.com/editor
 
 - curl to code
-  - https://curlconverter.com/
+> https://curlconverter.com/
 
 - Online Sheet
-  - https://hjkl01.github.io/x-spreadsheet/
+> https://hjkl01.github.io/x-spreadsheet/
 
 - ![stars](https://starchart.cc/hjkl01/pornhub.svg)
 
