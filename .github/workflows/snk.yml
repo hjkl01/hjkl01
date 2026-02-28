@@ -15,6 +15,9 @@ on:
   watch:
     types: [started]
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     permissions:
